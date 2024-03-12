@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 > 🌱 I can build Database driven website for you ... using C#.net, Asp.net MVC, Python, JavaScript,  SQL and DJango 🤐
 
-> 👯 I’m looking to collaborate on ... creating online market place for a niche project and teach basic programming :yum:
+> 👯 I’m looking to collaborate on ... creating online market place for a niche project and teaching basic programming :yum:
 
 > 🤔 I’m looking for help with ...online market place creation code bucket and venture capitalist 💋:
 
