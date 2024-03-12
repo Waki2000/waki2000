@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 > 🔭 I’m currently working on upending my Python programming skills 👽
 
-> 🌱 I’m can build Database driven website for you ... using C#.net, Asp.net MVC, Python, JavaScript,  SQL and DJango 🤐
+> 🌱 I can build Database driven website for you ... using C#.net, Asp.net MVC, Python, JavaScript,  SQL and DJango 🤐
 
 > 👯 I’m looking to collaborate on ... creating online market place for a niche project and teach basic programming :yum:
 
